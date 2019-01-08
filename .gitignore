@@ -4,6 +4,7 @@
 
 ## Build generated
 build/
+index/
 DerivedData/
 
 ## Various settings
@@ -21,6 +22,10 @@ xcuserdata/
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
+
+## macOS
+.DS_Store
+
 
 ## Obj-C/Swift specific
 *.hmap
